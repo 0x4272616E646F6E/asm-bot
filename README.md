@@ -1,2 +1,2 @@
-# AI-ASM-Bot
+# ASM-Bot
 A Discord AI Assistant Bot Written in Assembly.
