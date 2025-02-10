@@ -1,0 +1,20 @@
+# Object and listing files
+*.o
+*.obj
+*.lst
+
+# Executables
+*.exe
+*.out
+
+# Build directories
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Add more patterns as needed
