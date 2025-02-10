@@ -7,7 +7,7 @@ Why Assembly now?
 - Purely for learning and improving my understanding of assembly language.
 
 
-ASM-Bot is a Discord bot written in x86/64 Assembly that integrates AI models via the Cloudflare AI API. It allows users to generate code snippets, solve algorithmic problems, and assist with project tasks directly within their Discord channels, making AI tools easily accessible to developers and project teams.
+ASM-Bot is a Discord bot written in x86/64 Assembly that integrates AI models via the Cloudflare AI API. It allows users to generate code snippets, solve algorithmic problems, and assist with project tasks directly within their Discord channels, making AI tools easily accessible to everyone.
 
 ### Docker Build Example
 ```
